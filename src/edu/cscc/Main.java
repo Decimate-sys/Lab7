@@ -4,6 +4,8 @@ import java.util.*;
 
 /**
  * Main for Rock, Paper, Scissors, Lizard, Spock
+ * @Author Yunis Khamis
+ *
  */
 public class Main {
 
